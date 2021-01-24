@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import styles from '../styles/Home.module.css'
 import {AboutMe} from "../components/AboutMe";
 import {Experience} from "../components/Experience";
 import {Education} from "../components/Education";
@@ -10,8 +9,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Resume | German Bortoli > Technical Leader > Full Stack Developer</title>
-        <meta name="description" content="Meet Bortoli German CV, curriculum vitae of a software developer, full stack dev and technical leader." />
+        <title>Resume | German Bortoli</title>
+        <meta name="description" content="Meet German Bortoli CV, curriculum vitae of a software developer, full stack dev and technical leader." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <main className="font-firago hyphens-manual">
