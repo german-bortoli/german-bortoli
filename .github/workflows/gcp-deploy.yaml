@@ -1,4 +1,4 @@
-- name: Deploy to App Engine
+name: Deploy to App Engine
   uses: google-github-actions/deploy-appengine@v0.2.0
   with:
     deliverables: app.yaml
