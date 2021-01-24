@@ -9,6 +9,11 @@ import {ContactMe} from "../components/ContactMe";
 export default function Home() {
   return (
     <div>
+      <Head>
+        <title>Resume | German Bortoli > Technical Leader > Full Stack Developer</title>
+        <meta name="description" content="Meet Bortoli German CV, curriculum vitae of a software developer, full stack dev and technical leader." />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      </Head>
       <main className="font-firago hyphens-manual">
 
 
