@@ -12,6 +12,10 @@ export default function Home() {
         <title>Resume | German Bortoli</title>
         <meta name="description" content="Meet German Bortoli CV, curriculum vitae of a software developer, full stack dev and technical leader." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="og:title" content="Resume | Bortoli German" />
+        <meta name="og:description" content="Meet German Bortoli CV, curriculum vitae of a software developer, full stack dev and technical leader." />
+        <meta name="og:ur" content="https://german.borto.li" />
+        <meta name="og:image" content="https://german.borto.li/german-bortoli.png" />
       </Head>
       <main className="font-firago hyphens-manual">
 
