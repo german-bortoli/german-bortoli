@@ -31,6 +31,7 @@ export default function Home() {
                     "gender": "male",
                     "address": {
                         "@type": "PostalAddress",
+                        "addressCountry": "Argentina",
                         "addressLocality": "Santa Fe",
                         "addressRegion": "Santa Fe",
                         "postalCode": "3000"
