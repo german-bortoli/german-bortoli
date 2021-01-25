@@ -80,29 +80,8 @@ export const Experience = () => {
             </section>
 
             <p>
-                For more information take a look at my <a href="https://www.linkedin.com/in/germanbortoli/" target="_blank">Linkedin</a>
+                For more experience take a look at my <a href="https://www.linkedin.com/in/germanbortoli/" target="_blank" rel="nofollow">Linkedin</a>
             </p>
-            {/*Groween*/}
-            {/*<section className="mb-4.5 break-inside-avoid">*/}
-            {/*    <header>*/}
-            {/*        <h3 className="text-lg font-semibold text-gray-700 leading-snugish">*/}
-            {/*            Groween*/}
-            {/*        </h3>*/}
-            {/*        <p className="leading-normal text-md text-gray-650">*/}
-            {/*            Jan 2016 - Jan 2017 | CTO*/}
-            {/*        </p>*/}
-            {/*    </header>*/}
-            {/*    <p className="mt-2.1 text-md text-gray-700 leading-normal">*/}
-            {/*        <ul className="ml-1">*/}
-            {/*            <li>Managed a team using SCRUM and Agile methods to create mobile applications using Ionic framework.</li>*/}
-            {/*            <li>Made a webapp with angular 1.5 for delivery intelligence..</li>*/}
-            {/*        </ul>*/}
-            {/*    </p>*/}
-            {/*    <footer className="mt-3 leading-normal text-md text-gray-650 ">*/}
-            {/*        <p className="text-tiny"><b>Technologies:</b> <span>PHP (Laravel), Ionic2, NodeJS, Angular 1.5 and 2.</span></p>*/}
-            {/*        <p className="mt-1 text-tiny"><b>Databases:</b> <span>MySQL, MongoDB.</span></p>*/}
-            {/*    </footer>*/}
-            {/*</section>*/}
         </div>
 
     </section>)

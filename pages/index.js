@@ -16,6 +16,32 @@ export default function Home() {
         <meta name="og:description" content="Meet German Bortoli CV, curriculum vitae of a software developer, full stack dev and technical leader." />
         <meta name="og:ur" content="https://german.borto.li" />
         <meta name="og:image" content="https://german.borto.li/german-bortoli.png" />
+
+        <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify({
+                    "@context":"http:\/\/schema.org\/",
+                    "name":"Bortoli German",
+                    "@type":"Person",
+                    "email":"german@borto.li",
+                    "jobTitle": "Software Developer",
+                    "telephone": "+54 (342) 5285905",
+                    "url": "https://german.borto.li",
+                    "image": "https://german.borto.li/german-bortoli.png",
+                    "gender": "male",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Santa Fe",
+                        "addressRegion": "Santa Fe",
+                        "postalCode": "3000"
+                    },
+                    "sameAs":[
+                        "https://github.com/german-bortoli",
+                        "https://www.linkedin.com/in/germanbortoli",
+                    ]
+                })
+            }}
+        />
       </Head>
       <main className="font-firago hyphens-manual">
 
