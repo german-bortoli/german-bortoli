@@ -20,7 +20,7 @@ export default function Home() {
         <script
             type="application/ld+json"
             dangerouslySetInnerHTML={{ __html: JSON.stringify({
-                    "@context":"http:\/\/schema.org\/",
+                    "@context":"http://schema.org/",
                     "name":"Bortoli German",
                     "@type":"Person",
                     "email":"german@borto.li",
