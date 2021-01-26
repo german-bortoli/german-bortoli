@@ -20,8 +20,8 @@ on:
 name: Deploy to Google App Engine
 
 jobs:
-  build:
-    name: Build NextJS App
+  deploy:
+    name: Deploy NextJS to GCP
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -33,11 +33,6 @@ jobs:
       - run: npm run build --if-present
       - run: npm run gcp-predeploy
 
-  deploy:
-    name: Deploy
-    needs: [build]
-    runs-on: ubuntu-latest
-    steps:
       - name: Setup Cloud SDK
         uses: google-github-actions/setup-gcloud@v0.2.0
         with:
