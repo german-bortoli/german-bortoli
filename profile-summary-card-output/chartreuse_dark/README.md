@@ -45,16 +45,6 @@
 
 ---
 
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/german-bortoli/german-bortoli/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)
-```
-
-    
-
----
-
 ![](./4-productive-time.svg)
 
 ```
