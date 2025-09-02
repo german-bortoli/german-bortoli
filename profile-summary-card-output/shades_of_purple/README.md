@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/german-bortoli/german-bortoli/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
-```
-
-    
